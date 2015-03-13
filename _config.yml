@@ -5,19 +5,19 @@ paginate: 6
 paginate_path: page/:num
 
 blog:
-    name:                                                # 博客名称
-    description:                                         # 博客描述
-    title:                                               # 网页标题
-    url:                                                 # 博客地址
-    duoshuo:                                             # 多说ID
-    tongji:                                              # 百度统计ID
-    qiniu:                                               # 七牛云地址
+    name: 江南伪文艺范                                               # 博客名称
+    description: 理工实验狗的流水博客                                        # 博客描述
+    title: 江南伪文艺范                                              # 网页标题
+    url: http://blog.liuyang.cf                                                # 博客地址
+    duoshuo: younglau                                            # 多说ID
+    tongji: 6379771                                             # 百度统计ID
+    qiniu: https://portal.qiniu.com/bucket/younglau/index                                              # 七牛云地址
 author:
-    name:                                                # 作者名称
-    email:                                               # 邮箱地址
-    weibo:                                               # 微博地址
-    github:                                              # GitHub地址
-    logo:                                                # logo地址
+    name: YoungLau                                               # 作者名称
+    email:  i@younglau.info                                              # 邮箱地址
+    weibo: http://weibo.com/3177171815                                              # 微博地址
+    github: https://github.com/flyingyouth/Jekyll-Light                                             # GitHub地址
+    logo: http://bbs.jiangnan.edu.cn/rainstyle/img/logo.png                                               # logo地址
     douban:
-        name:                                            # 豆瓣地址名称
-        key:                                             # 豆瓣API Key
+        name: 梦飞扬，正青春                                           # 豆瓣地址名称
+        key: 0bd72f3e0c94a02b23858dba25bde081                                            # 豆瓣API Key
