@@ -17,7 +17,7 @@ author:
     email:  i@younglau.info                                              # 邮箱地址
     weibo: http://weibo.com/3177171815                                              # 微博地址
     github: https://github.com/flyingyouth/Jekyll-Light                                             # GitHub地址
-    logo: http://bbs.jiangnan.edu.cn/rainstyle/img/logo.png                                               # logo地址
+    logo: https://raw.githubusercontent.com/flyingyouth/Jekyll-Light/gh-pages/photos/logo.png                                              # logo地址
     douban:
         name: 梦飞扬，正青春                                           # 豆瓣地址名称
         key: 0bd72f3e0c94a02b23858dba25bde081                                            # 豆瓣API Key
