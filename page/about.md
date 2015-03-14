@@ -40,5 +40,4 @@ window.tctipConfig = {
 <script src="http://static.tctip.com/js/tctip.min.js"></script>
 
 ----
-<br/> 
 [![新浪微博](http://service.t.sina.com.cn/widget/qmd/{{site.author.weibo}}/f78fbcd2/1.png)](http://weibo.com/u/{{site.author.weibo}})
