@@ -2,21 +2,22 @@
 layout: blog
 title: 关于
 ---
-
+	
+		
+		
 Github上的Blog Jekyll @ GitHub
 
 ---
 
 ###联系方式：
 
-网站：[{{ blog.name }}]({{ blog.url }})
+网站：blog.liuyang.cf
 
-邮箱：[{{ author.email }}](mailto:{{ author.email }})
+邮箱：i@younglau.info	
 
-GitHub : [http://github.com/{{ author.github }}](http://github.com/{{ author.github }})
+GitHub : https://github.com/flyingyouth/Jekyll-Light
 
 ----
 
-{% if author.weibo %}
-[![新浪微博](http://service.t.sina.com.cn/widget/qmd/{{ author.weibo }}/f78fbcd2/1.png)](http://weibo.com/u/{{ author.weibo }})
-{% endif %}
+
+[![新浪微博](http://service.t.sina.com.cn/widget/qmd/3177171815/f78fbcd2/1.png)](http://weibo.com/u/3177171815)
