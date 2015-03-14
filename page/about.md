@@ -25,6 +25,8 @@ title: 关于
 
 GitHub : [{{site.author.github}}]({{site.author.github}})
 
+###如果您喜欢本站，想赞助作者的话，可以扫描右边栏“打赏”哦~~
+
 <script>
 window.tctipConfig = {
         staticPrefix:   "http://static.tctip.com",
