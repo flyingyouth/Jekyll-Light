@@ -13,7 +13,7 @@ title: 关于
 
 邮箱：i@younglau.info	
 
-GitHub : ![https://github.com/flyingyouth/Jekyll-Light](https://github.com/flyingyouth/Jekyll-Light)
+GitHub : [https://github.com/flyingyouth/Jekyll-Light](https://github.com/flyingyouth/Jekyll-Light)
 
 ----
 <br> 
