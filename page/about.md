@@ -3,10 +3,11 @@ layout: blog
 title: 关于
 ---
 	
-###Github上的Blog Jekyll @ GitHub
+###关于
 
 ---
-
+	这是Github上的Blog Jekyll @ GitHub
+---
 ###联系方式：
 
 网站：blog.liuyang.cf
