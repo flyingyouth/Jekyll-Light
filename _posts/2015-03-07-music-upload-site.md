@@ -22,4 +22,4 @@ tags: 音乐 外链
   上传以后的地址是：http://www.uploadmusic.org/MUSIC/1535691425742982.mp3
   喜欢的话可以放到QQ空间哦
 
-<embed src="http://music.163.com/style/swf/widget.swf?sid=30569520&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+<embed src="http://music.163.com/style/swf/widget.swf?sid=30569520&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
