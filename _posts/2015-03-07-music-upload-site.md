@@ -23,3 +23,15 @@ tags: 音乐 外链
   喜欢的话可以放到QQ空间哦
 
 <embed src="http://music.163.com/style/swf/widget.swf?sid=30569520&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+
+<script>
+window.tctipConfig = {
+        staticPrefix:   "http://static.tctip.com",
+        buttonImageId:  7,
+        list:{
+            alipay: {qrimg: "https://raw.githubusercontent.com/flyingyouth/Jekyll-Light/gh-pages/img/ali.png"},
+            weixin:{qrimg: "https://raw.githubusercontent.com/flyingyouth/Jekyll-Light/gh-pages/img/wx.png"},
+        }
+};
+</script>
+<script src="http://static.tctip.com/js/tctip.min.js"></script>
