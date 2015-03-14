@@ -2,9 +2,7 @@
 layout: blog
 title: 关于
 ---
-<br> 	
-<br> 	
-		
+	
 ###Github上的Blog Jekyll @ GitHub
 
 ---
