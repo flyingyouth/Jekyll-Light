@@ -22,7 +22,7 @@ GitHub : [https://github.com/flyingyouth/Jekyll-Light](https://github.com/flying
 <script>
 window.tctipConfig = {
         staticPrefix:   "http://static.tctip.com",
-        buttonImageId:  6,
+        buttonImageId:  3,
         list:{
             alipay: {qrimg: "https://raw.githubusercontent.com/flyingyouth/Jekyll-Light/gh-pages/img/alipayqr.png"},
             weixin:{qrimg: "https://raw.githubusercontent.com/flyingyouth/Jekyll-Light/gh-pages/img/wxqr.png"},
