@@ -15,6 +15,17 @@
   <script src="/res/js/light.js"></script>
   {% include tongji.html %}
 </head>
+<script>
+window.tctipConfig = {
+        staticPrefix:   "http://static.tctip.com",
+        buttonImageId:  1,
+        list:{
+            alipay: {qrimg: "https://github.com/flyingyouth/Jekyll-Light/blob/gh-pages/img/alipayqr.png"},
+            weixin:{qrimg: "https://github.com/flyingyouth/Jekyll-Light/blob/gh-pages/img/wxqr.png"},
+        }
+};
+</script>
+<script src="http://static.tctip.com/js/tctip.min.js"></script>
 <body>
   <div id="blog">
     {% include sidebar.html %}
@@ -25,5 +36,5 @@
   </div>    
   <div id="top"><a id="rocket" href="javascript:;" title="返回顶部"><i></i></a></div>
   {% if page.math == true %}<script src="http://cdn.bootcss.com/mathjax/2.4.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><script>MathJax.Hub.Config({tex2jax:{inlineMath: [['\[','\]']],displayMath: [['$$','$$']]}});</script>{% endif %}
-</body>
+  </body>
 </html>
