@@ -5,7 +5,7 @@ title: 关于
 	
 ###关于
 
-![](/photos/head.gif)
+![](/photos/head.png)
 
 ---
 		
