@@ -6,9 +6,7 @@ title: 关于
 ###关于
 
 ----
-
-	这是Github上的Blog Jekyll @ GitHub
-
+这是Github上的Blog Jekyll @ GitHub
 ----
 
 ###联系方式：
