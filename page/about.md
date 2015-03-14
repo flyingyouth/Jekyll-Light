@@ -5,7 +5,7 @@ title: 关于
 	
 ###关于
 
-![](photos/head.gif)
+![](/photos/head.gif)
 ---
 		
 	江南理工科研究僧一名
