@@ -5,8 +5,9 @@ title: 关于
 	
 ###关于
 
+<center>
 ![](/photos/head.png)
-
+</center>
 ---
 		
 	江南理工科研究僧一名
