@@ -3,9 +3,6 @@ layout: blog
 title: 音乐盒
 ---
 
-<style>.main{padding-right:0;}.douban-title{color:#1BAF69;margin-bottom:-20px;text-shadow:0 0 1px;letter-spacing:3px;}.douban-list{margin-left:-40px;}.douban-list ul li{list-style:none outside none;width:115px;margin-top:20px;float:left;}.douban-list ul li img{width:90px;height:120px;border:solid 1px #DDD;padding:1px;}.clear{clear:both;}@media (max-width:875px){.douban-title{letter-spacing:1px;margin-bottom:-15px;}.douban-list{margin-left:-37px;}.douban-list ul li{width:100px;margin-top:5px;}}</style>
-
----	
 ###我的音乐盒
 
  歌单来自我的网易云音乐， 版权归版权方所有
