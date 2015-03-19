@@ -29,8 +29,8 @@ window.tctipConfig = {
         staticPrefix:   "http://static.tctip.com",
         buttonImageId:  7,
         list:{
-            alipay: {qrimg: "https://raw.githubusercontent.com/flyingyouth/Jekyll-Light/gh-pages/img/ali.png"},
-            weixin:{qrimg: "https://raw.githubusercontent.com/flyingyouth/Jekyll-Light/gh-pages/img/wx.png"},
+            alipay: {qrimg: "http://blog.liuyang.cf/img/ali.png"},
+            weixin:{qrimg: "http://blog.liuyang.cf/img/wx.png"},
         }
 };
 </script>
