@@ -26,14 +26,15 @@ tags: 音乐 外链
 
 
 <script>
-	window.tctipConfig = {
-		staticPrefix: "http://blog.liuyang.cf",
-		buttonImageId: 6,
-		list:{
-			alipay: { qrimg: "http://blog.liuyang.cf/img/ali.png"},
-			weixin:{qrimg: "http://blog.liuyang.cf/img/wx.png"}
-		}
-	};
+window.tctipConfig = {
+        staticPrefix:   "http://static.tctip.com",
+        buttonImageId:  7,
+        buttonTip:  "zanzhu",
+        list:{
+            alipay: {qrimg: "https://raw.githubusercontent.com/flyingyouth/Jekyll-Light/gh-pages/img/ali.png"},
+            weixin:{qrimg: "https://raw.githubusercontent.com/flyingyouth/Jekyll-Light/gh-pages/img/wx.png"},
+        }
+};
 </script>
-<script src="/res/js/tctip.min.js"></script>
+<script src="http://static.tctip.com/js/tctip.min.js"></script>
 
