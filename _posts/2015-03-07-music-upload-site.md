@@ -24,13 +24,14 @@ tags: 音乐 外链
 
 <embed src="http://music.163.com/style/swf/widget.swf?sid=30569520&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
+
 <script>
 	window.tctipConfig = {
 		staticPrefix: "http://blog.liuyang.cf",
 		buttonImageId: 6,
 		list:{
-			alipay: { qrimg: "http://joway.wang/images/alipay.png"},
-			weixin:{qrimg: "http://joway.wang/images/wechat.png"}
+			alipay: { qrimg: "http://blog.liuyang.cf/img/ali.png"},
+			weixin:{qrimg: "http://blog.liuyang.cf/img/wx.png"}
 		}
 	};
 </script>
