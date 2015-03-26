@@ -1,7 +1,7 @@
 ---
 date: 2015-03-26 11:49:31+00:00
 layout: post
-title:  校园网云窗各平台版本
+title:  校园网云窗各平台版本（ios版、android版、PC版）
 categories: 软件
 tags:   软件
 ---
