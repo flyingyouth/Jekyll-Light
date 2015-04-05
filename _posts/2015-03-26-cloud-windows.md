@@ -11,10 +11,13 @@ tags:   软件
 * **ios版：[http://www.pgyer.com/campusvideo](http://www.pgyer.com/campusvideo)**
 
 * **android版：[http://www.pgyer.com/netkuu](http://www.pgyer.com/netkuu)**
+
 * **PC版：[http://pan.baidu.com/share/home?uk=1058480443](http://pan.baidu.com/share/home?uk=1058480443)**
 
 **转自：郑州大学网络爱好者群_群公告**
+
 **同时感谢开发者的辛勤付出**
+
    ————————
     20150326 updated
 
