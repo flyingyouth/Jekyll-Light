@@ -12,13 +12,13 @@ blog:
     duoshuo: younglau                                                # 多说ID
     tongji: 6379771                                                  # 百度统计ID
     qiniu: https://portal.qiniu.com/bucket/younglau/index            # 七牛云地址
-    cnzz: 1254162141						     # 站长统计
+    cnzz: 1254162141						     					 # 站长统计
 author:
-    name: YoungLau                                               # 作者名称
-    email:  i@younglau.info                                              # 邮箱地址
-    weibo: 3177171815                                              # 微博地址
-    github: https://github.com/flyingyouth/Jekyll-Light                                             # GitHub地址
+    name: YoungLau                                                	 # 作者名称
+    email:  i@younglau.info                                      	 # 邮箱地址
+    weibo: http://weibo.com/3177171815                               # 微博地址
+    github: https://github.com/flyingyouth/Jekyll-Light              # GitHub地址
     logo: https://raw.githubusercontent.com/flyingyouth/Jekyll-Light/gh-pages/photos/logo.png                                              # logo地址
     douban:
-        name: 梦飞扬，正青春                                           # 豆瓣地址名称
-        key: 0bd72f3e0c94a02b23858dba25bde081                          # 豆瓣API Key
+        name: 梦飞扬，正青春                                         # 豆瓣地址名称
+        key: 0bd72f3e0c94a02b23858dba25bde081                        # 豆瓣API Key
