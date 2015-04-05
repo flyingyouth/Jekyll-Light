@@ -14,8 +14,8 @@ blog:
     qiniu: https://portal.qiniu.com/bucket/younglau/index            # 七牛云地址
     cnzz: 1254162141						     					 # 站长统计
 author:
-    name: YoungLau                                               # 作者名称
-    email:  i@younglau.info                                   # 邮箱地址
+    name: YoungLau                                                   # 作者名称
+    email: base64 Z2VvcmdlbGl1MTgyQGdtYWlsLmNvbQ==                   # 邮箱地址
     weibo: http://weibo.com/u/3177171815                             # 微博地址
     weibo2: 3177171815												 # 微博地址2
     github: https://github.com/flyingyouth/Jekyll-Light              # GitHub地址
