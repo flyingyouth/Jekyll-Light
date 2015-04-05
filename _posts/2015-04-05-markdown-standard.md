@@ -4,7 +4,7 @@ layout: post
 title: markdown语法整理
 categories: 软件
 tags: markdown 语法
-- --
+---
 标题设置（让字体变大，和word的标题意思一样）
 在Markdown当中设置标题，有两种方式：
 第一种：通过在文字下方添加“=”和“-”，他们分别表示一级标题和二级标题。
