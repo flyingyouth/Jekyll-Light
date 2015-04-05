@@ -16,7 +16,8 @@ blog:
 author:
     name: YoungLau                                                	 # 作者名称
     email:  i@younglau.info                                      	 # 邮箱地址
-    weibo: http://weibo.com/u/3177171815                               # 微博地址
+	weibo: http://weibo.com/u/3177171815                             # 微博地址
+	weibo2: 3177171815												 # 微博地址2
     github: https://github.com/flyingyouth/Jekyll-Light              # GitHub地址
     logo: https://raw.githubusercontent.com/flyingyouth/Jekyll-Light/gh-pages/photos/logo.png                                              # logo地址
     douban:
