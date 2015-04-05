@@ -2,17 +2,15 @@
 layout: blog
 title: 音乐盒
 ---
-<br/>	
-<br/>		
-###  音乐盒
-<br/>	
-<br/>	
-#### 歌单来自我的网易云音乐， 版权归版权方所有
-<br/>		
-#### 基本上算中英文各半的一个歌单吧，希望大家喜欢
-<br/>	
-<embed src="http://music.163.com/style/swf/widget.swf?sid=56936111&type=0&auto=1&width=310&height=430" width="330" height="450"  allowNetworking="all"></embed>
-<br/>		
+ ###   音乐盒
+
+ #### 歌单来自我的网易云音乐， 版权归版权方所有
+		
+ #### 基本上算中英文各半的一个歌单吧，希望大家喜欢
+
+ <embed src="http://music.163.com/style/swf/widget.swf?sid=56936111&type=0&auto=1&width=310&height=430" width="330" height="450"  allowNetworking="all"></embed>
+
+	
 <script>
 window.tctipConfig = {
         staticPrefix:   "http://static.tctip.com",
@@ -27,6 +25,5 @@ window.tctipConfig = {
 <script src="http://static.tctip.com/js/tctip.min.js"></script>
 
 ----------
-
 Love Song, Love Life!
-<br/>	
+
