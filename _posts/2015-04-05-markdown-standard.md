@@ -38,7 +38,7 @@ tags: markdown 语法
 我们也可以插入真正的手动换行符 \<br>
 
  
-###  - **引用\块注释（blockquote）**
+###  - **引用/块注释（blockquote）**
  
 
 >上古神书《商古》写道：
@@ -106,20 +106,6 @@ I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].
 
 `` `包裹起来` ``
   
-###   - **语法高亮**
-
-```html
-
-    <div>Syntax Highlighting</div>
-	
-```
-
-```css
-
-    body{font-size:12px}
-	
-```
-
 ###   - **有序列表**
 
 使用数字后面跟上句号。（还要有空格）
@@ -131,7 +117,6 @@ I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].
 ###   - **无序列表**
 
 在文字开头添加(*, +, and -)实现无序列表。但是要注意在(*, +, and -)和文字之间需要添加空格。（建议：一个文档中只是用一种无序列表的表示方式）：
-
   - 无序列表 
   
   - 无序列表 
@@ -145,30 +130,9 @@ I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].
  
 
 ###  - **下划线**
-
-在空白行下方添加三条“-”横线。
-
----------------
----------------
----------------
-
-
 空白行下面一条“-”横线，很细的一行分割线
 
-
-
 ---------------
-
-###   - **公式**
-
-行内公式
-
- $y=a*x^2+b*x+c$
- 
-整行公式
-
- $$y=a*x^2+b*x+c$$
-
 
 ###  - **转义符(反斜杠)Escape character**
 
@@ -183,7 +147,7 @@ Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的�
 
 
 ### - **表格**
-
+<br>
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
