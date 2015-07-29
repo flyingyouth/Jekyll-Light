@@ -17,6 +17,7 @@ tags: win10 Esd 安装
 打开以后，发现有esd格式的选项了
 
 见图：
+
  ![](/photos/esd.png)
 
 软件下载个人还是推xiazaiba，虽然没给我广告费。。。
