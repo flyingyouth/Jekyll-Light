@@ -1,7 +1,7 @@
 ---
 date: 2015-07-21 12:00:00+00:00
 layout: post
-title: win10 Esd文件 怎么安装
+title: PE下 win10 Esd文件 怎么安装
 categories: 系统
 tags: win10 Esd 安装
 ---
@@ -12,7 +12,7 @@ tags: win10 Esd 安装
 
 网上看了一些教程，什么Dism命令或者用Esd转wim的软件转格式的方法感觉都比较麻烦
 
-然后下载了一个教新版本的WinNTSetup 3.8.1
+然后下载了一个教新版本的WinNTSetup 3.8.1，进PE后运行
 
 打开以后，发现有esd格式的选项了
 
