@@ -8,7 +8,7 @@ blog:
     name: 江南伪文艺范                                               # 博客名称
     description: 仰望星空，脚踏实地                                  # 博客描述
     title: 江南伪文艺范                                              # 网页标题
-    url: http://blog.liuyang.cf                                      # 博客地址
+    url: http://younglau.vicp.net/                                   # 博客地址
     duoshuo: younglau                                                # 多说ID
     tongji: 6379771                                                  # 百度统计ID
     qiniu: https://portal.qiniu.com/bucket/younglau/index            # 七牛云地址
