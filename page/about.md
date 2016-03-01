@@ -3,7 +3,7 @@ layout: blog
 title: 关于
 ---
 	
-###关于
+### 关于
 
 ![](/photos/head.png)
 
@@ -17,7 +17,7 @@ title: 关于
 
 ----
 
-###联系方式：
+### 联系方式：
 
 网站：{{site.blog.url}}
 
@@ -25,7 +25,7 @@ title: 关于
 
 GitHub : [{{site.author.github}}]({{site.author.github}})
 
-###如果您喜欢本站，想赞助作者的话，可以扫描右边栏打赏“赞助”哦~~
+### 如果您喜欢本站，想赞助作者的话，可以扫描右边栏打赏“赞助”哦~~
 
 <script>
 window.tctipConfig = {
