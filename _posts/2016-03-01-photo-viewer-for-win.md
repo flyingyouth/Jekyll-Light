@@ -6,17 +6,19 @@ categories: 软件
 tags: win10 照片查看器
 ---
 
-	win10自带照片查看器不习惯的童鞋，可以尝试修改为win7传统的照片查看器
+###	win10自带照片查看器不习惯的童鞋，可以尝试修改为win7传统的照片查看器
 	
 	下载以下文件，修改注册表，或者复制以下代码到文本文档修改文件名为XXX.reg运行即可
 
-	文件下载：
+###	文件下载：
 
 	[win7传统照片查看器](download/PhotoViewerForWin.reg)
 
-	代码：
+###	代码：
 
-	>Windows Registry Editor Version 5.00
+	>
+	
+	Windows Registry Editor Version 5.00
 
 	; Change Extension's File Type 
 
