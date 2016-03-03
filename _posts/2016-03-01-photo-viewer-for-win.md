@@ -12,7 +12,7 @@ tags: win10 照片查看器
 
 ###	文件下载：
 
-####	[win7传统照片查看器](download/PhotoViewerForWin.zip)
+####	[win7传统照片查看器](download/PhotoViewerForWin.rar)
 
 ###	代码：
 
