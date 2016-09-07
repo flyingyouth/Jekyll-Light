@@ -24,3 +24,15 @@ tags:   软件
 
    
 
+<script>
+window.tctipConfig = {
+        staticPrefix:   "http://static.tctip.com",
+        buttonImageId:  7,
+        buttonTip:  "zanzhu",
+        list:{
+            alipay: {qrimg: "https://raw.githubusercontent.com/flyingyouth/Jekyll-Light/gh-pages/img/ali.png"},
+            weixin:{qrimg: "https://raw.githubusercontent.com/flyingyouth/Jekyll-Light/gh-pages/img/wx.png"},
+        }
+};
+</script>
+<script src="http://static.tctip.com/js/tctip.min.js"></script>
