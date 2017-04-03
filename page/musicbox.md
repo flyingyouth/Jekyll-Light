@@ -29,3 +29,13 @@ window.tctipConfig = {
 ----------
 Love Song, Love Life!
 
+<div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div>
+<script>
+  var cloudTieConfig = {
+    url: document.location.href, 
+    sourceId: "",
+    productKey: "ed744959d0314fab8f7e9f725ed449ec",
+    target: "cloud-tie-wrapper"
+  };
+</script>
+<script src="https://img1.cache.netease.com/f2e/tie/yun/sdk/loader.js"></script>
