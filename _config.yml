@@ -9,7 +9,7 @@ blog:
     description: 仰望星空，脚踏实地                                  # 博客描述
     title: 江南伪文艺范                                              # 网页标题
     url: http://younglau.vicp.net/                                   # 博客地址
-    #duoshuo: yon#lau                                                # 多说ID
+    #duoshuo: young#lau                                                # 多说ID
     cloud-tie: ed744959d0314fab8f7e9f725ed449e                        # 网易云跟帖
     tongji: 6379771                                                  # 百度统计ID
     qiniu: https://portal.qiniu.com/bucket/younglau/index            # 七牛云地址
