@@ -8,14 +8,14 @@ blog:
     name: 江南伪文艺范                                               # 博客名称
     description: 仰望星空，脚踏实地                                  # 博客描述
     title: 江南伪文艺范                                              # 网页标题
-    url: http://younglau.vicp.net/                                   # 博客地址
+    url: http://blog.poplar.website/                                  # 博客地址
     #duoshuo:                                                       # 多说ID
     cloud-tie: ed744959d0314fab8f7e9f725ed449e                        # 网易云跟帖
     tongji: 6379771                                                  # 百度统计ID
     qiniu: https://portal.qiniu.com/bucket/younglau/index            # 七牛云地址
     cnzz: 1254162141						     					 # 站长统计
 author:
-    name: YoungLau                                                   # 作者名称
+    name: Poplar Young                                                   # 作者名称
     email: base64 Z2VvcmdlbGl1MTgyQGdtYWlsLmNvbQ==                   # 邮箱地址
     weibo: http://weibo.com/u/3177171815                             # 微博地址
     weibo2: 3177171815												 # 微博地址2
